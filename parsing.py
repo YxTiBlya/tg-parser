@@ -149,5 +149,5 @@ def pAvito(request_msg):
 
 ### Youla parsing
 def pYoula(request_msg):
-    
+    pass
 ###
